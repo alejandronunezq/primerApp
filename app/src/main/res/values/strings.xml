@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">miAPP</string>
     <string name="message">Hola mundo</string>
+    <string name="mensaje1">Hola mundo</string>
+    <string name="mensaje2">Hola mundo</string>
+    <string name="mensaje3">Hola mundo</string>
+    <string name="mensaje4">Hola mundo</string>
+    <string name="mensaje5">Hola mundo</string>
+    <string name="mensaje6">Hola mundo</string>
+    <string name="mensaje7">Click me!</string>
 </resources>
